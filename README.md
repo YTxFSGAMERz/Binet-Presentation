@@ -36,10 +36,11 @@ The presentation walks through:
 
 ## Video Output
 
-The final presentation video is located at:
-```
-C:\Users\Admin\Downloads\download_archive\Binet-Presentation\media\videos\binet_formula_presentation\1080p60\BinetPresentation.mp4
-```
+Watch the presentation directly on GitHub:
+
+![Binet's Formula Presentation](media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4)
+
+*The video above is embedded from the repository. Click to play/pause.*
 
 ## Rendering Instructions
 
