@@ -36,11 +36,15 @@ The presentation walks through:
 
 ## Video Output
 
-Watch the presentation directly on GitHub:
+The final presentation video is available in the repository:
+`media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4`
 
-![Binet's Formula Presentation](media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4)
+**To view the video:**
+- **On GitHub**: Click the file path above to open and play the video in your browser
+- **Direct download**: [Download the MP4 file](media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4) (~7.5 MB)
+- **Local playback**: Navigate to the file in your repository and play with any media player
 
-*The video above is embedded from the repository. Click to play/pause.*
+*Note: GitHub displays video files as clickable links that open in-browser playback when viewed directly.*
 
 ## Rendering Instructions
 
