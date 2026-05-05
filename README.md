@@ -37,13 +37,13 @@ The presentation walks through:
 
 ## Video Output
 
-The final presentation video is embedded below for direct playback:
+The final presentation video is previewed below (auto-playing). Click the preview or the link below to watch the full high-quality 1080p version.
 
-<video src="https://raw.githubusercontent.com/YTxFSGAMERz/Binet-Presentation/main/media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4" controls="controls" style="max-width: 100%;"></video>
+[![Binet Presentation Preview](./media/preview.gif)](https://github.com/YTxFSGAMERz/Binet-Presentation/releases/download/v1.0.0-video/BinetPresentation.mp4)
 
-**Alternative ways to view the video:**
-- **Direct download**: [Download the MP4 file](media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4) (~7.5 MB)
-- **Local playback**: Navigate to `media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4` in your repository and play with any media player
+**Watch / Download:**
+- 📺 **[Watch Full 1080p60 Video (Direct Link)](https://github.com/YTxFSGAMERz/Binet-Presentation/releases/download/v1.0.0-video/BinetPresentation.mp4)**
+- 📥 **[Download MP4 file (~7.5 MB)](https://github.com/YTxFSGAMERz/Binet-Presentation/raw/main/media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4)**
 
 ## Rendering Instructions
 
