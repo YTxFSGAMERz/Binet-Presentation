@@ -18,10 +18,11 @@ The presentation walks through:
 
 ## Files in this Repository
 
-- `binet_v2.py` - The main Manim presentation script
-- `binet_formula_presentation.py` - Alternative version of the presentation
-- `BinetPresentation*.html` - HTML exports of the presentation
-- `BinetPresentation_*.mp4` - Various rendered video versions
+- `binet_v2.py` - The main Manim presentation script (Improved Edition with 48 slides)
+- `binet_formula_presentation.py` - Alternative/older version of the presentation
+- `BinetPresentation_v7_1080p.html` - The latest interactive HTML export of the presentation
+- `BinetPresentation.json` / `_v2.json` - Slide configurations for `manim-slides`
+- `BinetPresentation_*.mp4` - Various rendered video versions (480p drafts and 1080p finals)
 - `media/videos/binet_formula_presentation/` - Directory containing rendered video output
 - `worklog_v4.md` - Development log documenting fixes and improvements
 - `LA_PROJECT_REPORT_ALMOST_FINAL_DRAFT.pdf` - Related linear algebra report
@@ -36,15 +37,17 @@ The presentation walks through:
 
 ## Video Output
 
-The final presentation video is available in the repository:
-`media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4`
+The final presentation video is embedded below for direct playback:
 
-**To view the video:**
-- **On GitHub**: Click the file path above to open and play the video in your browser
+<video src="https://github.com/YTxFSGAMERz/Binet-Presentation/raw/main/media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
+**Alternative ways to view the video:**
 - **Direct download**: [Download the MP4 file](media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4) (~7.5 MB)
-- **Local playback**: Navigate to the file in your repository and play with any media player
+- **Local playback**: Navigate to `media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4` in your repository and play with any media player
 
-*Note: GitHub displays video files as clickable links that open in-browser playback when viewed directly.*
+*Note: The embedded video uses the raw GitHub link for reliable playback across different Markdown viewers.*
 
 ## Rendering Instructions
 
