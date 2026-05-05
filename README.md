@@ -39,15 +39,11 @@ The presentation walks through:
 
 The final presentation video is embedded below for direct playback:
 
-<video src="https://github.com/YTxFSGAMERz/Binet-Presentation/raw/main/media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+![Binet Presentation Video](media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4)
 
 **Alternative ways to view the video:**
 - **Direct download**: [Download the MP4 file](media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4) (~7.5 MB)
 - **Local playback**: Navigate to `media/videos/binet_formula_presentation/1080p60/BinetPresentation.mp4` in your repository and play with any media player
-
-*Note: The embedded video uses the raw GitHub link for reliable playback across different Markdown viewers.*
 
 ## Rendering Instructions
 
